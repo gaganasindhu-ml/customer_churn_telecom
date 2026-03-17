@@ -11,7 +11,61 @@
 
 *AI-powered customer retention platform with premium glass-morphism UI*
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation)
+[Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation)
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+### Application Interface
+
+<div align="center">
+
+#### Main Dashboard
+![Telecom Churn Intelligence](screenshots/Screenshot_2026-02-28_204524.png)
+*Premium glass-morphism UI with gradient title and modern design*
+
+#### Customer Information Input
+![Customer Input Form](screenshots/Screenshot_2026-02-28_204603.png)
+*Three-column layout for Demographics, Service Details, and Billing Information*
+
+#### Prediction Results - Low Risk
+![Low Risk Prediction](screenshots/Screenshot__312_.png)
+*Green-themed result card showing 3.8% churn probability with customer stability indicator*
+
+#### Risk Analysis Dashboard
+![Risk Factors Analysis](screenshots/Screenshot_2026-02-28_204711.png)
+*Key risk factors with HIGH/MEDIUM classification and customer metrics display*
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+### Application Interface
+![Main Dashboard](screenshots/screenshot2.png)
+*Telecom Churn Intelligence - Main Dashboard with Customer Information Form*
+
+### Single Customer Prediction
+![Customer Input Form](screenshots/screenshot3.png)
+*Interactive form with Demographics, Service Details, and Billing Information*
+
+### Prediction Results
+![Low Risk Result](screenshots/screenshot1.png)
+*Risk Assessment - LOW RISK (3.8% churn probability) with Key Risk Factors*
+
+### Risk Analysis
+![Risk Factors](screenshots/screenshot5.png)
+*Detailed Risk Factor Analysis with Monthly Spend and Tenure Metrics*
+
+### Additional Features
+![Streaming Services](screenshots/screenshot4.png)
+*Service Configuration Options - Tech Support, Streaming TV & Movies*
 
 </div>
 
@@ -29,6 +83,129 @@ A sophisticated machine learning system that predicts customer churn in telecomm
 - 📈 **Interactive Analytics** - Beautiful Plotly visualizations and risk gauges
 - 💡 **Smart Recommendations** - AI-powered retention strategies
 - 🚀 **Production Ready** - Fully functional with error handling
+
+---
+
+## 📸 Screenshots
+
+### Application Interface
+
+<div align="center">
+
+#### Main Dashboard
+![Main Dashboard](screenshots/Screenshot_2026-02-28_204524.png)
+*Telecom Churn Intelligence platform with premium glass-morphism UI*
+
+#### Customer Information Input
+![Customer Input Form](screenshots/Screenshot_2026-02-28_204603.png)
+*Interactive form with Demographics, Service Details, and Billing Information*
+
+#### Input Form Details
+![Form Details](screenshots/Screenshot_2026-02-28_204621.png)
+*Comprehensive customer data entry with validation*
+
+#### Prediction Button
+![Predict Button](screenshots/Screenshot_2026-02-28_204711.png)
+*One-click churn risk prediction*
+
+#### Low Risk Result
+![Low Risk Prediction](screenshots/Screenshot__312_.png)
+*Result showing LOW RISK (3.8% churn probability) with key risk factors analysis*
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+### Application Interface
+
+<div align="center">
+
+#### Homepage & Dashboard
+![Homepage](screenshots/homepage.png)
+*Clean, modern interface with sidebar navigation and gradient hero section*
+
+#### Customer Information Input
+![Input Form](screenshots/input-form.png)
+*Three-column layout for Demographics, Service Details, and Billing Information*
+
+#### Prediction Form
+![Prediction](screenshots/prediction-form.png)
+*Complete form with dropdowns, sliders, and number inputs for all customer attributes*
+
+#### Risk Analysis Results
+![Risk Factors](screenshots/risk-factors.png)
+*Key risk factors identified with HIGH/MEDIUM/LOW classification*
+
+#### Low Risk Prediction
+![Low Risk](screenshots/low-risk-result.png)
+*Beautiful result card showing 3.8% churn probability with green styling*
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+### Application Interface
+
+<img src="screenshots/screenshot2.png" alt="Main Dashboard" width="800">
+<p><em>Main Dashboard - Telecom Churn Intelligence Platform</em></p>
+
+### Single Customer Prediction
+
+<img src="screenshots/screenshot3.png" alt="Customer Information Form" width="800">
+<p><em>Customer Information Input Form with Three Categories</em></p>
+
+### Risk Assessment Results
+
+<img src="screenshots/screenshot1.png" alt="Low Risk Result" width="800">
+<p><em>Prediction Result showing Low Risk (3.8% Churn Probability)</em></p>
+
+### Risk Factors Analysis
+
+<img src="screenshots/screenshot5.png" alt="Risk Factors" width="800">
+<p><em>Key Risk Factors and Customer Metrics Display</em></p>
+
+### Interactive Controls
+
+<img src="screenshots/screenshot4.png" alt="Input Fields" width="800">
+<p><em>Service Details and Billing Information Input</em></p>
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+### Application Interface
+
+<div align="center">
+
+#### Hero Page & Results
+<img src="screenshots/Screenshot__312_.png" alt="Low Risk Prediction Result" width="800">
+*Customer churn prediction showing LOW RISK with 3.8% probability*
+
+#### Main Dashboard
+<img src="screenshots/Screenshot_2026-02-28_204524.png" alt="Main Dashboard" width="800">
+*Telecom Churn Intelligence platform with sidebar navigation*
+
+#### Customer Input Form
+<img src="screenshots/Screenshot_2026-02-28_204603.png" alt="Customer Information Form" width="800">
+*Comprehensive customer data input form with Demographics, Service Details, and Billing sections*
+
+#### Detailed Input View
+<img src="screenshots/Screenshot_2026-02-28_204621.png" alt="Service Details Input" width="800">
+*Service configuration options including Internet, Security, Backup, and Streaming services*
+
+#### Risk Analysis Dashboard
+<img src="screenshots/Screenshot_2026-02-28_204711.png" alt="Risk Factors Analysis" width="800">
+*Key risk factors display with customer metrics: Monthly Spend ($70) and Tenure (12 months)*
+
+</div>
 
 ---
 
@@ -53,6 +230,18 @@ A sophisticated machine learning system that predicts customer churn in telecomm
 - **Priority Flagging** - Focus on high-risk segments
 - **ROI Insights** - Understand potential revenue impact
 - **Comparative Analysis** - Batch processing with summary statistics
+
+### UI/UX Highlights
+
+Our premium interface features:
+- **Glass-morphism Design** - Modern frosted glass aesthetic with backdrop blur
+- **Dark Theme** - Professional color scheme with gradient accents
+- **Real-time Feedback** - Animated risk cards with pulsing effects
+- **Responsive Layout** - Works seamlessly on desktop and mobile
+- **Interactive Elements** - Dropdown menus, sliders, and input validation
+
+![Customer Input Interface](screenshots/Screenshot_2026-02-28_204621.png)
+*Comprehensive input form with organized sections and real-time validation*
 
 ---
 
@@ -145,9 +334,11 @@ telecom-churn-prediction/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
 ├── screenshots/                   # Application screenshots
-│   ├── single-prediction.png
-│   ├── batch-analysis.png
-│   └── analytics.png
+│   ├── Screenshot_2026-02-28_204524.png  # Main dashboard
+│   ├── Screenshot_2026-02-28_204603.png  # Customer input form
+│   ├── Screenshot_2026-02-28_204621.png  # Form details
+│   ├── Screenshot_2026-02-28_204711.png  # Predict button
+│   └── Screenshot__312_.png              # Low risk result
 │
 └── images/                        # Additional images and assets
     └── logo.png
@@ -365,13 +556,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Design Inspiration**: Modern SaaS dashboards
 
 ---
-
-## 📞 Support
-
-- 📧 Email: support@yourcompany.com
-- 💬 Discord: [Join community](#)
-- 📖 Docs: [Full Documentation](docs/)
-- 🐛 Issues: [GitHub Issues](issues/)
 
 ---
 

@@ -24,19 +24,19 @@
 <div align="center">
 
 #### Main Dashboard
-![Telecom Churn Intelligence](screenshots/Screenshot_2026-02-28_204524.png)
+![Telecom Churn Intelligence](https://github.com/gaganasindhu-ml/customer_churn_telecom/blob/main/Screenshot/1.png?raw=true)
 *Premium glass-morphism UI with gradient title and modern design*
 
 #### Customer Information Input
-![Customer Input Form](screenshots/Screenshot_2026-02-28_204603.png)
+![Customer Input Form](https://github.com/gaganasindhu-ml/customer_churn_telecom/blob/main/Screenshot/3.png?raw=true)
 *Three-column layout for Demographics, Service Details, and Billing Information*
 
 #### Prediction Results - Low Risk
-![Low Risk Prediction](screenshots/Screenshot__312_.png)
+![Low Risk Prediction](https://github.com/gaganasindhu-ml/customer_churn_telecom/blob/main/Screenshot/2.png?raw=true)
 *Green-themed result card showing 3.8% churn probability with customer stability indicator*
 
 #### Risk Analysis Dashboard
-![Risk Factors Analysis](screenshots/Screenshot_2026-02-28_204711.png)
+![Risk Factors Analysis](https://github.com/gaganasindhu-ml/customer_churn_telecom/blob/main/Screenshot/5.png?raw=true)
 *Key risk factors with HIGH/MEDIUM classification and customer metrics display*
 
 </div>

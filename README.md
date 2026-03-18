@@ -336,9 +336,7 @@ telecom-churn-prediction/
 
 ### Full Documentation
 
-- [**Project Report**](docs/PROJECT_REPORT.md) - Comprehensive analysis and findings
-- [**Design System**](docs/DESIGN_SYSTEM.md) - Complete UX/UI documentation
-- [**User Guide**](docs/USER_GUIDE.md) - Detailed usage instructions
+- [**Project Report**](https://github.com/gaganasindhu-ml/customer_churn_telecom/blob/689b27e8b491db7709d312b1c1ac29732e94c795/Project_Report%20.docx) - Comprehensive analysis and findings
 
 ### Dataset Information
 

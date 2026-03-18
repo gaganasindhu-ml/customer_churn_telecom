@@ -17,8 +17,6 @@
 
 ---
 
-
-
 ## 🌟 Overview
 
 A sophisticated machine learning system that predicts customer churn in telecommunications with **~80% accuracy**. Features a premium glass-morphism UI, real-time predictions, batch analysis capabilities, and AI-powered retention recommendations.
@@ -32,6 +30,33 @@ A sophisticated machine learning system that predicts customer churn in telecomm
 - 💡 **Smart Recommendations** - AI-powered retention strategies
 - 🚀 **Production Ready** - Fully functional with error handling
 
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+### Main Dashboard
+![Main Dashboard](https://github.com/gaganasindhu-ml/customer_churn_telecom/blob/main/Screenshot/1.png?raw=true)
+*Telecom Churn Intelligence platform with customer information form across three sections*
+
+### Customer Input Form
+![Input Form](https://github.com/gaganasindhu-ml/customer_churn_telecom/blob/main/Screenshot/3.png?raw=true)
+*Interactive form with Demographics, Service Details, and Billing Information*
+
+### Prediction Result - Low Risk
+![Low Risk Result](https://github.com/gaganasindhu-ml/customer_churn_telecom/blob/main/Screenshot/2.png?raw=true)
+*Result showing LOW RISK (3.8% churn probability) with customer stability indicator*
+
+### Risk Factor Analysis
+![Risk Analysis](https://github.com/gaganasindhu-ml/customer_churn_telecom/blob/main/Screenshot/4.png?raw=true)
+*Key risk factors: Month-to-month contract (HIGH), Electronic check payment (MEDIUM)*
+
+### Customer Metrics
+![Customer Metrics](https://github.com/gaganasindhu-ml/customer_churn_telecom/blob/main/Screenshot/5.png?raw=true)
+*Detailed metrics showing $70 monthly spend and 12-month tenure*
+
+</div>
 
 ---
 
@@ -56,18 +81,6 @@ A sophisticated machine learning system that predicts customer churn in telecomm
 - **Priority Flagging** - Focus on high-risk segments
 - **ROI Insights** - Understand potential revenue impact
 - **Comparative Analysis** - Batch processing with summary statistics
-
-### UI/UX Highlights
-
-Our premium interface features:
-- **Glass-morphism Design** - Modern frosted glass aesthetic with backdrop blur
-- **Dark Theme** - Professional color scheme with gradient accents
-- **Real-time Feedback** - Animated risk cards with pulsing effects
-- **Responsive Layout** - Works seamlessly on desktop and mobile
-- **Interactive Elements** - Dropdown menus, sliders, and input validation
-
-![Customer Input Interface](screenshots/Screenshot_2026-02-28_204621.png)
-*Comprehensive input form with organized sections and real-time validation*
 
 ---
 
@@ -160,11 +173,11 @@ telecom-churn-prediction/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
 ├── screenshots/                   # Application screenshots
-│   ├── Screenshot_2026-02-28_204524.png  # Main dashboard
-│   ├── Screenshot_2026-02-28_204603.png  # Customer input form
-│   ├── Screenshot_2026-02-28_204621.png  # Form details
-│   ├── Screenshot_2026-02-28_204711.png  # Predict button
-│   └── Screenshot__312_.png              # Low risk result
+│   ├── screenshot1.png
+│   ├── screenshot2.png
+│   ├── screenshot3.png
+│   ├── screenshot4.png
+│   └── screenshot5.png
 │
 └── images/                        # Additional images and assets
     └── logo.png
@@ -381,7 +394,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Visualization**: Plotly
 - **Design Inspiration**: Modern SaaS dashboards
 
----
+
 
 ---
 
@@ -391,6 +404,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [⬆ Back to Top](#-telecom-customer-churn-prediction-system)
 
-**© 2024 Telecom Churn Intelligence**
+**© 2026 Telecom Churn Intelligence**
 
 </div>

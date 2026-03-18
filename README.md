@@ -43,34 +43,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### Application Interface
-![Main Dashboard](screenshots/screenshot2.png)
-*Telecom Churn Intelligence - Main Dashboard with Customer Information Form*
-
-### Single Customer Prediction
-![Customer Input Form](screenshots/screenshot3.png)
-*Interactive form with Demographics, Service Details, and Billing Information*
-
-### Prediction Results
-![Low Risk Result](screenshots/screenshot1.png)
-*Risk Assessment - LOW RISK (3.8% churn probability) with Key Risk Factors*
-
-### Risk Analysis
-![Risk Factors](screenshots/screenshot5.png)
-*Detailed Risk Factor Analysis with Monthly Spend and Tenure Metrics*
-
-### Additional Features
-![Streaming Services](screenshots/screenshot4.png)
-*Service Configuration Options - Tech Support, Streaming TV & Movies*
-
-</div>
-
----
-
 ## 🌟 Overview
 
 A sophisticated machine learning system that predicts customer churn in telecommunications with **~80% accuracy**. Features a premium glass-morphism UI, real-time predictions, batch analysis capabilities, and AI-powered retention recommendations.
